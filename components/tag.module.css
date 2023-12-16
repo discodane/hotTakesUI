@@ -1,0 +1,20 @@
+.container2 {
+  border-width: 1px;
+  border-color: grey;
+  border-style: solid;
+  flex: 1;
+}
+
+.title {
+  position: relative;
+  top: 1px;
+  left: 7px;
+  color: grey;
+  font-size: smaller
+}
+
+.value {
+  position: relative;
+  left: 40%;
+  font-size: larger;
+}

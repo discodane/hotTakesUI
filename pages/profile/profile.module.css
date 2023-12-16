@@ -1,0 +1,8 @@
+.tagLine {
+  display: flex;
+  flex-direction: row;
+}
+
+.header {
+  margin-bottom: 1em;
+}
