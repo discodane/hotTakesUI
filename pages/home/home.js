@@ -8,7 +8,6 @@ export default function Home({data}) {
       <h1>HotTakes</h1>
       <ul>
         { data.map(caster => {
-          console.log(caster)
           return (
             <li key={caster.name}>
               <Link href={{
